@@ -3,7 +3,7 @@ reFocus for Kodi (formerly known as XBMC Mediacenter)
 
 reFocus is a graphical interface for Kodi that understands your media is what truly matters. Elegance, simplicity, refinement, consistency and balanced design are keywords for this skin.
 
-### Download and installation
+### Download and installation 2.2
 For instructions please see the wiki [here] (https://github.com/jeroenpardon/skin.refocus/wiki#installing-refocus)
 
 ### License
